@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/timur/Desktop/main/lb9/LiOA_l9/9.2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z4DFSDiiPPiS_i, symObjAddr: 0x0, symBinAddr: 0x10000327C, symSize: 0x128 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _head, symObjAddr: 0x1F78, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x8E, offset: 0x8E, size: 0x8, addend: 0x0, symName: _head_top, symObjAddr: 0x1F80, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0xAF, offset: 0xAF, size: 0x8, addend: 0x0, symName: __Z4DFSDiiPPiS_i, symObjAddr: 0x0, symBinAddr: 0x10000327C, symSize: 0x128 }
+  - { offsetInCU: 0x12B, offset: 0x12B, size: 0x8, addend: 0x0, symName: __Z9DFSD_listP4nodeS0_Pii, symObjAddr: 0x128, symBinAddr: 0x1000033A4, symSize: 0x134 }
+  - { offsetInCU: 0x199, offset: 0x199, size: 0x8, addend: 0x0, symName: __Z10get_structPPii, symObjAddr: 0x25C, symBinAddr: 0x1000034D8, symSize: 0x220 }
+  - { offsetInCU: 0x26D, offset: 0x26D, size: 0x8, addend: 0x0, symName: __Z6reviewP4node, symObjAddr: 0x47C, symBinAddr: 0x1000036F8, symSize: 0xF0 }
+  - { offsetInCU: 0x2A3, offset: 0x2A3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x56C, symBinAddr: 0x1000037E8, symSize: 0x5B0 }
+...
